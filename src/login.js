@@ -49,7 +49,7 @@ export const Login = () => {
             
 
 
-            <h1 className="h3 mb-3 fw-normal">Please Sign In</h1>
+            <h1 className="h3 mb-3 fw-normal">Please Log In</h1>
 
             <div className="form-floating">
                 <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com"
